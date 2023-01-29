@@ -12,12 +12,6 @@ import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Collections;
 
-/**
- * Homework 02 - Spring 2021
- * MainActivity.java
- * Sneh Jain
- * Ivy Pham
- */
 
 public class MainActivity extends AppCompatActivity {
 
